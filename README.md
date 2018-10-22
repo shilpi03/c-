@@ -1,2 +1,11 @@
-# c-
-a programming language
+# c 
+
+
+c is a basic , general-purpose , imperative programming language which supports structured programming, lexical variable scope and recursion . This efficient programming language is originally developed by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie/) between 1969 and 1973 at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs/) and used to re-implement the Unix operating system. It has since become one of the most widely used programming languages of all time with C compilers from various vendors available for the majority of existing computer architectures and operating systems. C has been standardized by the American National Standards Institute (ANSI) since 1989 (see ANSI C) and subsequently by the International Organization for Standardization (ISO).
+
+# Relation with other programming languages
+
+Many later languages have borrowed directly or indirectly from C, including [C++](https://en.wikipedia.org/wiki/C%2B%2B/), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)/), Unix's [C shell](https://en.wikipedia.org/wiki/C_shell/), [D](https://en.wikipedia.org/wiki/D_(programming_language)/), [Go](https://en.wikipedia.org/wiki/Go_(programming_language)/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)/), [JavaScript](https://en.wikipedia.org/wiki/JavaScript/), [Limbo](https://en.wikipedia.org/wiki/Limbo_(programming_language)/), [LPC](https://en.wikipedia.org/wiki/LPC_(programming_language)/), [Objective-C](https://en.wikipedia.org/wiki/Objective-C/), [Perl](https://en.wikipedia.org/wiki/Perl/), [PHP](https://en.wikipedia.org/wiki/PHP/), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)/), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)/), [Swift](,https://en.wikipedia.org/wiki/Swift_(programming_language)/) [Verilog](https://en.wikipedia.org/wiki/Verilog/) and [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog/) (hardware description languages). These languages have drawn many of their control structures and other basic features from C. Most of them (with Python being the most dramatic exception) are also very syntactically similar to C in general, and they tend to combine the recognizable expression and statement syntax of C with underlying type systems, data models, and semantics that can be radically different.
+
+
+ 
